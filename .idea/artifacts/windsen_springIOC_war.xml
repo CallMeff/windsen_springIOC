@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="windsen_springIOC:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="windsen-springIOC.war">
+      <element id="artifact" artifact-name="windsen_springIOC:war exploded" />
+    </root>
+  </artifact>
+</component>
